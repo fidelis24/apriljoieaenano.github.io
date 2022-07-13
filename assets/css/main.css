@@ -2800,7 +2800,7 @@ input, select, textarea {
 						-ms-transition: none;
 						transition: none;
 						border: 0;
-						color: ##2f0909 !important;
+						color: #2f0909 !important;
 						display: block;
 						padding: 0.85em 0;
 						text-decoration: none;
@@ -2818,7 +2818,7 @@ input, select, textarea {
 /* Wrapper */
 
 	#wrapper {
-  background: whiite;
+  background: white;
 		padding-right: 23em;
 	}
 
