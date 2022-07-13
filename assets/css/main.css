@@ -1953,7 +1953,7 @@ input, select, textarea {
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #4acaa8;
+			border-color: #9f5662;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -2751,7 +2751,7 @@ input, select, textarea {
 			}
 
 			#header > header p {
-				color: black;
+				color: white;
 				font-style: italic;
 				margin: 1em 0 0 0;
 			}
@@ -2808,7 +2808,7 @@ input, select, textarea {
 
 						#header > nav ul li a.active {
 							background: #fff;
-							color: #800000 !important;
+							color: #white !important;
 						}
 
 					#header > nav ul li:first-child {
